@@ -3,6 +3,7 @@ public class Calculator{
 
 		System.out.println(addition(3,4));
 		System.out.println(subtraction(13,4));
+		System.out.println(multiplication(x:10,y:2));
                 
 	}
 
